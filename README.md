@@ -72,3 +72,5 @@ Working with MySQL databases, migrations, relationships, CRUD operations, and da
 ### 🚀 Code • Learn • Build • Improve
 
 Thanks for visiting my profile! ⭐
+
+mbanner.png
