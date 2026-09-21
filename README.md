@@ -73,4 +73,6 @@ Working with MySQL databases, migrations, relationships, CRUD operations, and da
 
 Thanks for visiting my profile! ⭐
 
-mbanner.png
+<p align="center">
+  <img src="mbanner.png" width="100%">
+</p>
