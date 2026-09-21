@@ -59,22 +59,13 @@ User registration, login, authentication, authorization, and user management.
 
 Working with MySQL databases, migrations, relationships, CRUD operations, and data management.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammadqodir-wmp\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir-wmp\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
 * 💻 GitHub: [Muhammadqodir-wmp](https://github.com/Muhammadqodir-wmp)
 * 💼 LinkedIn: Add your LinkedIn
-* 📱 Telegram: Add your Telegram
-* 📧 Email: Add your email
+* 📱 Telegram: t.me/muhammadqodir_bi
+* 📧 Email: muhammadqodirabduhalilov21@gmail.com
 
 ---
 
